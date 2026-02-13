@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "rose feat. Vaundy（feat. Vaundy）",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2026-02-13T04:18:22.183959Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rose feat. Vaundy",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_rose_feat._Vaundy_Chilli_Beans..txt"
+    }
+  ]
+}
